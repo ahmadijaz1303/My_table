@@ -1,0 +1,47 @@
+{
+    "countries": [
+      {
+        "flag": "/images/af.svg",
+        "country": "Afghanistan",
+        "population": 40218234,
+        "region": "Asia"
+      },
+      {
+        "flag": "/images/al.svg",
+        "country": "Albania",
+        "population": 2877797,
+        "region": "Europe"
+      },
+      {
+        "flag": "/images/ly.svg",
+        "country": "Libya",
+        "population": 44700000,
+        "region": "Africa"
+      },
+      {
+        "flag": "/images/pk.svg",
+        "country": "Pakistan",
+        "population": 231402117,
+        "region": "Asia"
+      },
+      {
+        "flag": "/images/br.svg",
+        "country": "Brazil",
+        "population": 213993437,
+        "region": "Americas"
+      },
+      {
+        "flag": "/images/ca.svg",
+        "country": "Canada",
+        "population": 38005238,
+        "region": "Americas"
+      },
+      {
+        "flag": "/images/eg.svg",
+        "country": "Egypt",
+        "population": 102334403,
+        "region": "Africa"
+      }
+    ]
+  }
+  
